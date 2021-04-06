@@ -1,5 +1,5 @@
-# Sally_Portfolio
- A Portfolio of Data Analytics Projects
+# Sally Rong's Portfolio
+ A Portfolio of My Data Analytics Projects
 
 ## [Project 1: Predict Recidivism Rates Using Supervised Machine Learning](https://github.com/sallyyrong/Predict-Recidivism-Using-Supervised-Machine-Learning)
 
