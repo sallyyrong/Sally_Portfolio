@@ -20,3 +20,8 @@ The purpose of this project is to employ unsupervised machine learning methods a
 
 ![](/images/sentimentAnalysis_figure3.png)
 ![](/images/sentimentAnalysis_figure4.png)
+
+<h2>
+ <a href="https://github.com/sallyyrong/Exploring-LA-Traffic-Fatalities-Attributes" target="_blank">Project 3: Exploring Attributes of LA Traffic-related Fatalities</a>
+</h2>
+In this project, we analyze data of traffic-related accidents and fatalities that occured in Los Angeles from 2009-2013. We find interesting insights in exploring different attributes such as vehicle safety equipment, car make, and party age. 
