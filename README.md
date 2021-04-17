@@ -1,5 +1,5 @@
 # Sally Rong's Portfolio
- A Portfolio of My Data Analytics Projects
+ A Portfolio of my Data Analytics & Web Development Projects
 
 <h2>
  <a href="https://github.com/sallyyrong/Predict-Recidivism-Using-Supervised-Machine-Learning" target="_blank">Project 1: Predict Recidivism Rates Using Supervised Machine Learning</a>
@@ -29,3 +29,17 @@ In this project, we analyze data of traffic-related accidents and fatalities tha
 
 ![](/images/carMakes.png)
 ![](/images/airbagDeploy.png)
+
+<h2>
+ <a href="https://www.shecodes.io/workshops/shecodes-online-workshop-61-0/projects/320934" target="_blank">Project 4: Front-end Practice: Polaroid Wall Webpage</a>
+</h2>
+
+A webpage that displays Polaroid pictures I've captured from my favorite spots in California!
+
+A fun project I made using HTML, CSS, and Javascript! 
+
+I completed this project as part of my Introduction to Coding [certificate](https://www.shecodes.io/certificates/aad0b53b9a81c1a77559e7c8eb591089) through SheCodes.
+
+Code is open source on [Github](https://github.com/sallyyrong/Polaroid-Wall-webpage).
+
+![Polaroid Webpage demo](/images/webpage_demo.gif)
